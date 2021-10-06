@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-MFD35-05-PCO2WB000-telemetered-pco2w_abc_dcl_instrument_blank
 data_stream: CE07SHSM-MFD35-05-PCO2WB000-telemetered-pco2w_abc_dcl_instrument_blank
 end_date: '2021-09-11T17:36:18.283Z'
-last_updated: '2021-10-06T02:01:16.622407Z'
+last_updated: '2021-10-06T02:05:54.411392'
 start_date: '2015-04-09T06:36:19.073Z'
-status: pending
+status: success
